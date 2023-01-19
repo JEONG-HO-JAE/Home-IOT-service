@@ -13,3 +13,5 @@ Materials are written by Korean.<br/><br/>
  Owner can ask the today's weather and give orders such as open the door, check the parcel, turn the light.<br/>
 - Turn the light if the sensor detect people <br/>
 - Open the door if the sensor detect people at the entrace
+
+<image src="image.jpg">
