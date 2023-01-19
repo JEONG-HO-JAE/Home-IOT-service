@@ -7,7 +7,7 @@ We thought that it is hard to find the service for entrance, so we tried to sugg
 Materials are written by Korean.<br/><br/>
 
 
-* Main Function | Inspired by iPhone Siri, we implemented the service<br/>
+## Main Function | Inspired by iPhone Siri, we implemented the service<br/>
 - Mini virtual assistant <br/>
  Only ecognize the owner voice<br/>
  Owner can ask the today's weather and give orders such as open the door, check the parcel, turn the light.<br/>
