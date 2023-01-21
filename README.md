@@ -3,7 +3,7 @@
 As the world are intersted in home IOT serive, we focused at the entrance.<br/>
 We thought that it is hard to find the service for entrance, so we tried to suggest a IOT service for the entrance<br/><br/>
 
-## Arduino IDE | Team project & LeaderAugust - December 2021 
+## Arduino IDE | Team project & Leader   August - December 2021 
 Materials are written by Korean.<br/><br/>
 
 
