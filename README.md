@@ -13,9 +13,9 @@ Materials are written by Korean.<br/><br/>
  Owner can ask the today's weather and give orders such as open the door, check the parcel, turn the light.<br/>
 - Turn the light if the sensor detect people <br/>
 - Open the door if the sensor detect people at the entrace<br/>
-**Limitaion : Slow voice recognition and output processing speed due to board-to-board connection**
+**Limitation : Slow voice recognition and output processing speed due to board-to-board connection**
 
-<image src="image.jpg"><br/><br/>
+<image src="image.jpg"><Wbr/><br/>
 
 ## Demo video for virtual assitant<br/>
 https://drive.google.com/drive/folders/1UDdWu7zdMVyagLcVZai7x33bKSKNSagd?usp=share_link<br/>
