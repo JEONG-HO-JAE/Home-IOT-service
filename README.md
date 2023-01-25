@@ -17,5 +17,8 @@ Materials are written by Korean.<br/><br/>
 
 <image src="image.jpg"><br/><br/>
 
-## You can check the details for virtual assitant<br/>
-https://drive.google.com/drive/folders/1UDdWu7zdMVyagLcVZai7x33bKSKNSagd?usp=share_link
+## Demo video for virtual assitant<br/>
+https://drive.google.com/drive/folders/1UDdWu7zdMVyagLcVZai7x33bKSKNSagd?usp=share_link<br/>
+
+## Details (Documents)
+https://drive.google.com/drive/folders/1oIvJ6mRUU4m9bCe-Yv-zstkssUWA-wh2?usp=share_link<br/>
